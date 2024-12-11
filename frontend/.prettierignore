@@ -1,0 +1,12 @@
+build
+public/
+.github
+deployment-scripts/
+infrastructure/
+node_modules/
+README.md
+.gitignore
+Jenkinsfile
+Dockerfile
+package-lock.json
+jsconfig.json

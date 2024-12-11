@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" style="enable-background:new 0 0 180 180;" xml:space="preserve" viewBox="76.83 76.83 26.34 26.34">
+<style type="text/css">
+	.arrow-circle-color{fill:none;}
+	.arrow-circle-color-1{fill:none;stroke:#387AB4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.arrow-circle-color-2{fill:none;stroke:#333333;stroke-miterlimit:10;}
+</style>
+<circle class="arrow-circle-color" cx="90" cy="90" r="12.67"></circle>
+<polyline class="arrow-circle-color-1" points="97.5,87.42 90,95.42 82.5,87.42 "></polyline>
+<circle class="arrow-circle-color-2" cx="90" cy="90" r="12.67"></circle>
+</svg>

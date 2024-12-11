@@ -1,0 +1,6 @@
+{
+  "title": "rutgers_announcement",
+  "description": "The Django Rutgers Announcement Module is a user-friendly tool designed to facilitate in-app announcement notifications for all users in a Django project. This module leverages the Celery cron service to ensure timely and efficient delivery of notifications to users.  ",
+  "root": "/backend/modules",
+  "schema": {}
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" style="enable-background:new 0 0 180 180;" xml:space="preserve" viewBox="81.5 85 17 10">
+<style type="text/css">
+	.arrow-outline{fill:none;}
+	.arrow-outline-1{fill:#666666;}
+</style>
+<g>
+	<polygon class="arrow-outline" points="97.5,86 90,94 82.5,86  "/>
+	<g>
+		<path class="arrow-outline-1" d="M90,95c-0.28,0-0.54-0.11-0.73-0.32l-7.5-8c-0.27-0.29-0.35-0.72-0.19-1.08c0.16-0.37,0.52-0.6,0.92-0.6h15    c0.4,0,0.76,0.24,0.92,0.6c0.16,0.37,0.08,0.79-0.19,1.08l-7.5,8C90.54,94.89,90.28,95,90,95z M84.81,87L90,92.54L95.19,87H84.81z    "/>
+	</g>
+</g>
+</svg>

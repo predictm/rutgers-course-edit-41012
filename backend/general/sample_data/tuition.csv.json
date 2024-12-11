@@ -1,0 +1,602 @@
+[
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "01",
+        "tuition_fees": "404"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "18",
+        "tuition_fees": "957.5"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "81",
+        "tuition_fees": "739"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "80",
+        "tuition_fees": "404"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "77",
+        "tuition_fees": "488"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "38",
+        "tuition_fees": "901"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "37",
+        "tuition_fees": "404"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "34",
+        "tuition_fees": "757.5"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "33",
+        "tuition_fees": "417"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "31",
+        "tuition_fees": "810"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "30",
+        "tuition_fees": "471"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "19",
+        "tuition_fees": "739"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "19",
+        "tuition_fees": "739"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "19",
+        "tuition_fees": "739"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "17",
+        "tuition_fees": "757.5"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "16",
+        "tuition_fees": "739"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "15",
+        "tuition_fees": "757.5"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "14",
+        "tuition_fees": "470.5"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "13",
+        "tuition_fees": "934"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "11",
+        "tuition_fees": "462.5"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "10",
+        "tuition_fees": "404"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "08",
+        "tuition_fees": "819"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "07",
+        "tuition_fees": "417"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "05",
+        "tuition_fees": "404"
+    },
+    {
+        "year": "2022",
+        "term": "0",
+        "offering_unit_cd": "04",
+        "tuition_fees": "394"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "18",
+        "tuition_fees": "957.5"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "01",
+        "tuition_fees": "404"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "17",
+        "tuition_fees": "757.5"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "77",
+        "tuition_fees": "488"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "16",
+        "tuition_fees": "739"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "31",
+        "tuition_fees": "810"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "15",
+        "tuition_fees": "757.5"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "37",
+        "tuition_fees": "404"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "14",
+        "tuition_fees": "470.5"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "30",
+        "tuition_fees": "471"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "13",
+        "tuition_fees": "934"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "80",
+        "tuition_fees": "404"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "11",
+        "tuition_fees": "462.5"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "19",
+        "tuition_fees": "739"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "10",
+        "tuition_fees": "404"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "34",
+        "tuition_fees": "757.5"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "08",
+        "tuition_fees": "819"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "19",
+        "tuition_fees": "739"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "07",
+        "tuition_fees": "417"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "38",
+        "tuition_fees": "901"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "05",
+        "tuition_fees": "404"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "19",
+        "tuition_fees": "739"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "04",
+        "tuition_fees": "394"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "33",
+        "tuition_fees": "417"
+    },
+    {
+        "year": "2022",
+        "term": "7",
+        "offering_unit_cd": "81",
+        "tuition_fees": "739"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "01",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "04",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "05",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "07",
+        "tuition_fees": "429"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "08",
+        "tuition_fees": "843"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "10",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "11",
+        "tuition_fees": "476"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "13",
+        "tuition_fees": "985"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "14",
+        "tuition_fees": "484"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "15",
+        "tuition_fees": "779"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "16",
+        "tuition_fees": "779"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "17",
+        "tuition_fees": "779"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "18",
+        "tuition_fees": "985"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "19",
+        "tuition_fees": "760"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "19",
+        "tuition_fees": "760"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "19",
+        "tuition_fees": "760"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "30",
+        "tuition_fees": "485"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "31",
+        "tuition_fees": "847"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "33",
+        "tuition_fees": "429"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "34",
+        "tuition_fees": "779"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "37",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "38",
+        "tuition_fees": "927"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "77",
+        "tuition_fees": "502"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "80",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "0",
+        "offering_unit_cd": "81",
+        "tuition_fees": "779"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "01",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "81",
+        "tuition_fees": "779"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "05",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "07",
+        "tuition_fees": "429"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "08",
+        "tuition_fees": "843"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "10",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "11",
+        "tuition_fees": "476"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "13",
+        "tuition_fees": "985"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "14",
+        "tuition_fees": "484"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "15",
+        "tuition_fees": "779"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "16",
+        "tuition_fees": "779"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "17",
+        "tuition_fees": "779"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "18",
+        "tuition_fees": "985"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "19",
+        "tuition_fees": "760"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "19",
+        "tuition_fees": "760"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "19",
+        "tuition_fees": "760"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "30",
+        "tuition_fees": "485"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "31",
+        "tuition_fees": "847"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "33",
+        "tuition_fees": "429"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "34",
+        "tuition_fees": "779"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "37",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "38",
+        "tuition_fees": "927"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "77",
+        "tuition_fees": "502"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "80",
+        "tuition_fees": "416"
+    },
+    {
+        "year": "2023",
+        "term": "7",
+        "offering_unit_cd": "04",
+        "tuition_fees": "416"
+    }
+]

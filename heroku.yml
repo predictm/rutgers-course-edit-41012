@@ -1,0 +1,15 @@
+build:
+  docker:
+    web: ./backend/Dockerfile
+  config:
+    DEBUG_COLLECTSTATIC: 1
+    SECRET_KEY: build
+release:
+  image: web
+  command:
+    - python3 manage.py migrate
+run:
+  worker:
+    command:
+      - celery -A rutgers_course_edit_41012 worker --beat --scheduler django -l info --concurrency 1
+    image: web

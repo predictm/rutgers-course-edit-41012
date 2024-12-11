@@ -1,0 +1,6 @@
+{
+  "title": "email_templates",
+  "description": "Django Post Office is a powerful and versatile package for handling email functionality in Django web applications. This package simplifies the process of sending, receiving, and processing emails by providing a user-friendly and efficient interface.",
+  "root": "/backend/modules",
+  "schema": {}
+}

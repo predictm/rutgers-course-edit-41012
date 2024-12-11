@@ -1,0 +1,1 @@
+default_app_config = "modules.django_rutgers_announcement.apps.RutgersAnnouncementConfig"

@@ -1,0 +1,254 @@
+[
+    {
+        "offering_unit_cd": "70",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "Robert Wood Johnson Medical School",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "74",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "School of Health Professions - Grad",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "01",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "School of Arts & Sciences",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "02",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Livingston College",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "03",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Military Science",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "04",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "School of Communication & Info (U)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "05",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Graduate School of Education (U)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "06",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Douglass College",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "07",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Mason Gross School of the Arts (U)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "08",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "Mason Gross School of the Arts (G)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "09",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "School of Social Work (U)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "10",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Bloustein School of Planning (U)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "11",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "School of Environmental & Biological Sci",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "12",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Rutgers College",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "13",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Grad School of Applied & Prof Psych (U)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "14",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "School of Engineering",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "15",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "Graduate School of Education (G)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "16",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "School of Graduate Studies",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "17",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "School of Communication & Info (G)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "18",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "Grad School of Applied & Prof Psych (G)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "19",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "School of Social Work (G)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "22",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "Rutgers Business School (G)",
+        "home_campus": "NK"
+    },
+    {
+        "offering_unit_cd": "25",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "School of Nursing - NB & NK campus (U)",
+        "home_campus": "NK"
+    },
+    {
+        "offering_unit_cd": "30",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Ernest Mario School of Pharmacy (U)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "31",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "Ernest Mario School of Pharmacy (G)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "33",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Rutgers Business School- NB campus (U)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "34",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "Bloustein School of Planning (G)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "37",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "School of Management & Labor Rel (U)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "38",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "School of Management & Labor Rel (G)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "61",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "University College-New Brunswick",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "80",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "Continuous Education (U)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "81",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "Continuous Education (G)",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "73",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "School of Health Professions - UG",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "75",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "School of Public Health",
+        "home_campus": "NB"
+    },
+    {
+        "offering_unit_cd": "26",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "G",
+        "offering_unit_descr": "The Graduate School-Newark",
+        "home_campus": "NK"
+    },
+    {
+        "offering_unit_cd": "77",
+        "offering_unit_campus": "NB",
+        "offering_unit_level": "U",
+        "offering_unit_descr": "School of Nursing - New Brunswick (U)",
+        "home_campus": "NB"
+    }
+]

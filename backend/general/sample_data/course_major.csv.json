@@ -1,0 +1,934 @@
+[
+    {
+        "subj_cd": "001",
+        "subj_descr": "EXCHANGE"
+    },
+    {
+        "subj_cd": "010",
+        "subj_descr": "ACCOUNTING"
+    },
+    {
+        "subj_cd": "011",
+        "subj_descr": "ADMINISTRATIVE STUDIES"
+    },
+    {
+        "subj_cd": "013",
+        "subj_descr": "AFRICAN, M. EAST. & S. ASIAN LANG & LIT"
+    },
+    {
+        "subj_cd": "014",
+        "subj_descr": "AFRO-AMERICAN STUDIES"
+    },
+    {
+        "subj_cd": "015",
+        "subj_descr": "ENVIRONMENTAL AND BIOLOGICAL SCIENCES"
+    },
+    {
+        "subj_cd": "020",
+        "subj_descr": "AGRICULTURE AND FOOD SYSTEMS"
+    },
+    {
+        "subj_cd": "047",
+        "subj_descr": "ALCOHOL STUDIES"
+    },
+    {
+        "subj_cd": "050",
+        "subj_descr": "AMERICAN STUDIES"
+    },
+    {
+        "subj_cd": "067",
+        "subj_descr": "ANIMAL SCIENCE"
+    },
+    {
+        "subj_cd": "070",
+        "subj_descr": "ANTHROPOLOGY"
+    },
+    {
+        "subj_cd": "080",
+        "subj_descr": "ART"
+    },
+    {
+        "subj_cd": "081",
+        "subj_descr": "VISUAL ARTS"
+    },
+    {
+        "subj_cd": "082",
+        "subj_descr": "ART HISTORY"
+    },
+    {
+        "subj_cd": "090",
+        "subj_descr": "ARTS AND SCIENCES"
+    },
+    {
+        "subj_cd": "098",
+        "subj_descr": "ASIAN STUDIES"
+    },
+    {
+        "subj_cd": "107",
+        "subj_descr": "ATMOSPHERIC SCIENCE"
+    },
+    {
+        "subj_cd": "112",
+        "subj_descr": "BEHAVIORAL AND NEURAL SCIENCES"
+    },
+    {
+        "subj_cd": "115",
+        "subj_descr": "BIOCHEMISTRY"
+    },
+    {
+        "subj_cd": "116",
+        "subj_descr": "BIOENVIRONMENTAL ENGINEERING"
+    },
+    {
+        "subj_cd": "117",
+        "subj_descr": "BIOENVIRONMENTAL ENGINEERING"
+    },
+    {
+        "subj_cd": "119",
+        "subj_descr": "BIOLOGICAL SCIENCES"
+    },
+    {
+        "subj_cd": "120",
+        "subj_descr": "BIOLOGY"
+    },
+    {
+        "subj_cd": "125",
+        "subj_descr": "BIOMEDICAL ENGINEERING"
+    },
+    {
+        "subj_cd": "126",
+        "subj_descr": "BIOTECHNOLOGY"
+    },
+    {
+        "subj_cd": "134",
+        "subj_descr": "BUSINESS OF FASHION"
+    },
+    {
+        "subj_cd": "135",
+        "subj_descr": "BUSINESS ADMINISTRATION"
+    },
+    {
+        "subj_cd": "136",
+        "subj_descr": "BUSINESS ANALYTICS AND INFORMATION TECH"
+    },
+    {
+        "subj_cd": "137",
+        "subj_descr": "BUSINESS AND SCIENCE"
+    },
+    {
+        "subj_cd": "140",
+        "subj_descr": "BUSINESS LAW"
+    },
+    {
+        "subj_cd": "146",
+        "subj_descr": "CELL BIO & NEURO SCI"
+    },
+    {
+        "subj_cd": "148",
+        "subj_descr": "CELL & DEVELOPMENTAL BIOLOGY"
+    },
+    {
+        "subj_cd": "155",
+        "subj_descr": "CHEMICAL AND BIOCHEMICAL ENGINEERING"
+    },
+    {
+        "subj_cd": "158",
+        "subj_descr": "CHEMICAL BIOLOGY"
+    },
+    {
+        "subj_cd": "160",
+        "subj_descr": "CHEMISTRY"
+    },
+    {
+        "subj_cd": "165",
+        "subj_descr": "CHINESE"
+    },
+    {
+        "subj_cd": "175",
+        "subj_descr": "CINEMA STUDIES"
+    },
+    {
+        "subj_cd": "180",
+        "subj_descr": "CIVIL AND ENVIRONMENTAL ENGINEERING"
+    },
+    {
+        "subj_cd": "185",
+        "subj_descr": "COGNITIVE SCIENCES"
+    },
+    {
+        "subj_cd": "189",
+        "subj_descr": "COMMUNICATION AND INFORMATION"
+    },
+    {
+        "subj_cd": "190",
+        "subj_descr": "CLASSICS"
+    },
+    {
+        "subj_cd": "192",
+        "subj_descr": "COMMUNICATION"
+    },
+    {
+        "subj_cd": "193",
+        "subj_descr": "COMMUNITY HEALTH OUTREACH"
+    },
+    {
+        "subj_cd": "194",
+        "subj_descr": "COMMUNICATION AND INFORMATION STUDIES"
+    },
+    {
+        "subj_cd": "195",
+        "subj_descr": "COMPARATIVE LITERATURE"
+    },
+    {
+        "subj_cd": "198",
+        "subj_descr": "COMPUTER SCIENCE"
+    },
+    {
+        "subj_cd": "202",
+        "subj_descr": "CRIMINAL JUSTICE"
+    },
+    {
+        "subj_cd": "203",
+        "subj_descr": "DANCE"
+    },
+    {
+        "subj_cd": "206",
+        "subj_descr": "DANCE - MGSA"
+    },
+    {
+        "subj_cd": "207",
+        "subj_descr": "DANCE EDUCATION"
+    },
+    {
+        "subj_cd": "208",
+        "subj_descr": "DESIGN"
+    },
+    {
+        "subj_cd": "211",
+        "subj_descr": "DIGITAL FILMMAKING"
+    },
+    {
+        "subj_cd": "215",
+        "subj_descr": "ECOLOGY"
+    },
+    {
+        "subj_cd": "216",
+        "subj_descr": "ECOLOGY, EVOLUTION AND NATURAL RESOURCES"
+    },
+    {
+        "subj_cd": "217",
+        "subj_descr": "EAST ASIAN LANGUAGE AND CULTURES"
+    },
+    {
+        "subj_cd": "220",
+        "subj_descr": "ECONOMICS"
+    },
+    {
+        "subj_cd": "223",
+        "subj_descr": "ECONOMICS, APPLIED"
+    },
+    {
+        "subj_cd": "230",
+        "subj_descr": "EDUCATION-EDUCATIONAL ADMIN AND SUPERV"
+    },
+    {
+        "subj_cd": "233",
+        "subj_descr": "EDUCATION-ADULT AND CONTINUING EDUCATION"
+    },
+    {
+        "subj_cd": "245",
+        "subj_descr": "EDUCATION-COLLEGE STUDENT AFFAIRS"
+    },
+    {
+        "subj_cd": "250",
+        "subj_descr": "EDUCATION-EDUCATION, GENERAL ELECTIVE"
+    },
+    {
+        "subj_cd": "251",
+        "subj_descr": "EDUCATION-EARLY CHILD/ELEMENTARY EDUC"
+    },
+    {
+        "subj_cd": "252",
+        "subj_descr": "EDUCATION-ENGLISH/LANG ARTS EDUCATION"
+    },
+    {
+        "subj_cd": "253",
+        "subj_descr": "EDUCATION-LANGUAGE EDUCATION"
+    },
+    {
+        "subj_cd": "254",
+        "subj_descr": "EDUCATION-MATHEMATICS EDUCATION"
+    },
+    {
+        "subj_cd": "255",
+        "subj_descr": "EDUCATION-EDUCATION ELECTIVES"
+    },
+    {
+        "subj_cd": "256",
+        "subj_descr": "EDUCATION-SCIENCE EDUCATION"
+    },
+    {
+        "subj_cd": "257",
+        "subj_descr": "EDUCATION-SOCIAL EDUCATION"
+    },
+    {
+        "subj_cd": "267",
+        "subj_descr": "EDUCATION-TEACHER LEADERSHIP"
+    },
+    {
+        "subj_cd": "290",
+        "subj_descr": "EDUCATION-EDUCATIONAL PSYCHOLOGY"
+    },
+    {
+        "subj_cd": "291",
+        "subj_descr": "EDUCATION-EDUC STATS & MEASUREMENT"
+    },
+    {
+        "subj_cd": "293",
+        "subj_descr": "EDUCATION-SPECIAL EDUCATION"
+    },
+    {
+        "subj_cd": "294",
+        "subj_descr": "EDUCATION-GIFTED EDUCATION"
+    },
+    {
+        "subj_cd": "295",
+        "subj_descr": "EDUCATION-LEARNING COGNITION & DEV"
+    },
+    {
+        "subj_cd": "296",
+        "subj_descr": "EDUCATION-MEDICAL AND HEALTH PROFESSIONS"
+    },
+    {
+        "subj_cd": "297",
+        "subj_descr": "EDUCATION-COUNSELING PSYCHOLOGY"
+    },
+    {
+        "subj_cd": "299",
+        "subj_descr": "EDUCATION-READING"
+    },
+    {
+        "subj_cd": "300",
+        "subj_descr": "EDUCATION"
+    },
+    {
+        "subj_cd": "310",
+        "subj_descr": "EDUCATION-SOCIAL & PHILOS FOUND OF ED"
+    },
+    {
+        "subj_cd": "332",
+        "subj_descr": "ELECTRICAL AND COMPU."
+    },
+    {
+        "subj_cd": "340",
+        "subj_descr": "ENDOCRINOLOGY AND ANIMAL BIOSCIENCES"
+    },
+    {
+        "subj_cd": "350",
+        "subj_descr": "ENGLISH"
+    },
+    {
+        "subj_cd": "351",
+        "subj_descr": "ENGLISH: CREATIVE WRITING"
+    },
+    {
+        "subj_cd": "354",
+        "subj_descr": "ENGLISH - FILM STUDIES"
+    },
+    {
+        "subj_cd": "355",
+        "subj_descr": "ENGLISH: COMP & WRITING"
+    },
+    {
+        "subj_cd": "356",
+        "subj_descr": "ENGLISH AS A SECOND LANGUAGE"
+    },
+    {
+        "subj_cd": "357",
+        "subj_descr": "AMERICAN LANGUAGE STUDIES"
+    },
+    {
+        "subj_cd": "358",
+        "subj_descr": "ENGLISH: LITERATURE"
+    },
+    {
+        "subj_cd": "359",
+        "subj_descr": "ENGLISH: THEORIES AND METHODS"
+    },
+    {
+        "subj_cd": "364",
+        "subj_descr": "EDUCATIONAL OPPORTUNITY FUND"
+    },
+    {
+        "subj_cd": "370",
+        "subj_descr": "ENTOMOLOGY"
+    },
+    {
+        "subj_cd": "373",
+        "subj_descr": "ENVIRONMENTAL AND BUSINESS ECONOMICS"
+    },
+    {
+        "subj_cd": "374",
+        "subj_descr": "ENVIRON. POLICY, INSTITUTIONS & BEHAVIOR"
+    },
+    {
+        "subj_cd": "375",
+        "subj_descr": "ENVIRONMENTAL SCIENCES"
+    },
+    {
+        "subj_cd": "377",
+        "subj_descr": "EXERCISE SCIENCE"
+    },
+    {
+        "subj_cd": "380",
+        "subj_descr": "ENVIRONMENTAL GEOLOGY"
+    },
+    {
+        "subj_cd": "381",
+        "subj_descr": "ENVIRONMENTAL STUDIES"
+    },
+    {
+        "subj_cd": "382",
+        "subj_descr": "ENTREPRENEURSHIP"
+    },
+    {
+        "subj_cd": "390",
+        "subj_descr": "FINANCE"
+    },
+    {
+        "subj_cd": "395",
+        "subj_descr": "FOOD AND BUSINESS ECONOMICS"
+    },
+    {
+        "subj_cd": "400",
+        "subj_descr": "FOOD SCIENCE"
+    },
+    {
+        "subj_cd": "420",
+        "subj_descr": "FRENCH"
+    },
+    {
+        "subj_cd": "430",
+        "subj_descr": "FINANCIAL ANALYSIS"
+    },
+    {
+        "subj_cd": "440",
+        "subj_descr": "GENERAL ENGINEERING"
+    },
+    {
+        "subj_cd": "447",
+        "subj_descr": "GENETICS"
+    },
+    {
+        "subj_cd": "450",
+        "subj_descr": "GEOGRAPHY"
+    },
+    {
+        "subj_cd": "460",
+        "subj_descr": "GEOLOGICAL SCIENCES"
+    },
+    {
+        "subj_cd": "470",
+        "subj_descr": "GERMAN"
+    },
+    {
+        "subj_cd": "475",
+        "subj_descr": "GLOBAL SPORT BUSINESS"
+    },
+    {
+        "subj_cd": "478",
+        "subj_descr": "GLOBAL AFFAIRS"
+    },
+    {
+        "subj_cd": "490",
+        "subj_descr": "GREEK"
+    },
+    {
+        "subj_cd": "501",
+        "subj_descr": "HEALTH ADMINISTRATION"
+    },
+    {
+        "subj_cd": "503",
+        "subj_descr": "HEALTH COMMUNICATION AND INFORMATION"
+    },
+    {
+        "subj_cd": "506",
+        "subj_descr": "HISTORY GENERAL/COMPARATIVE"
+    },
+    {
+        "subj_cd": "507",
+        "subj_descr": "EDUCATION-HIGHER EDUCATION"
+    },
+    {
+        "subj_cd": "508",
+        "subj_descr": "HISTORY, AFR ASIA LATIN AM"
+    },
+    {
+        "subj_cd": "510",
+        "subj_descr": "HISTORY, GENERAL"
+    },
+    {
+        "subj_cd": "512",
+        "subj_descr": "HISTORY, AMERICAN"
+    },
+    {
+        "subj_cd": "522",
+        "subj_descr": "INTERNATIONAL BUSINESS AND BUSINESS"
+    },
+    {
+        "subj_cd": "533",
+        "subj_descr": "HUMAN RESOURCE MANAGEMENT"
+    },
+    {
+        "subj_cd": "534",
+        "subj_descr": "HUMANITIES"
+    },
+    {
+        "subj_cd": "540",
+        "subj_descr": "INDUSTRIAL AND SYSTEMS ENGINEERING"
+    },
+    {
+        "subj_cd": "544",
+        "subj_descr": "INFORMATION TECHNOLOGY"
+    },
+    {
+        "subj_cd": "547",
+        "subj_descr": "INFORMATION TECHNOLOGY AND INFORMATICS"
+    },
+    {
+        "subj_cd": "550",
+        "subj_descr": "LANDSCAPE ARCHITECTURE"
+    },
+    {
+        "subj_cd": "553",
+        "subj_descr": "INTERNATIONAL BUSINESS AND BUSINESS"
+    },
+    {
+        "subj_cd": "554",
+        "subj_descr": "INTERDISCIPLINARY - SEBS"
+    },
+    {
+        "subj_cd": "555",
+        "subj_descr": "INDIVIDUALIZED MAJOR"
+    },
+    {
+        "subj_cd": "556",
+        "subj_descr": "INTERDISCIPLINARY STUDIES - ARTS & SCI"
+    },
+    {
+        "subj_cd": "557",
+        "subj_descr": "INTERDISCIPLINARY - MASON GROSS"
+    },
+    {
+        "subj_cd": "558",
+        "subj_descr": "INTERNATIONAL STUDIES"
+    },
+    {
+        "subj_cd": "560",
+        "subj_descr": "ITALIAN"
+    },
+    {
+        "subj_cd": "561",
+        "subj_descr": "JAZZ HISTORY AND RESEARCH"
+    },
+    {
+        "subj_cd": "563",
+        "subj_descr": "JEWISH STUDIES"
+    },
+    {
+        "subj_cd": "565",
+        "subj_descr": "JAPANESE"
+    },
+    {
+        "subj_cd": "567",
+        "subj_descr": "JOURNALISM AND MEDIA STUDIES"
+    },
+    {
+        "subj_cd": "572",
+        "subj_descr": "KINESIOLOGY AND APPLIED PHYSIOLOGY"
+    },
+    {
+        "subj_cd": "573",
+        "subj_descr": "ENVIRONMENTAL PLANNING AND DESIGN"
+    },
+    {
+        "subj_cd": "574",
+        "subj_descr": "KOREAN"
+    },
+    {
+        "subj_cd": "575",
+        "subj_descr": "LABOR STUDIES"
+    },
+    {
+        "subj_cd": "578",
+        "subj_descr": "LABOR STUDIES AND EMPLOYMENT RELATIONS"
+    },
+    {
+        "subj_cd": "580",
+        "subj_descr": "LATIN"
+    },
+    {
+        "subj_cd": "590",
+        "subj_descr": "LATIN AMERICAN STUDIES"
+    },
+    {
+        "subj_cd": "595",
+        "subj_descr": "LATINO AND HISPANIC CARIBBEAN STUDIES"
+    },
+    {
+        "subj_cd": "607",
+        "subj_descr": "LEADERSHIP SKILLS"
+    },
+    {
+        "subj_cd": "610",
+        "subj_descr": "LIBRARY AND INFORMATION SCIENCE"
+    },
+    {
+        "subj_cd": "611",
+        "subj_descr": "LIBRARY SERVICE - PROF IMPROVEMENT"
+    },
+    {
+        "subj_cd": "615",
+        "subj_descr": "LINGUISTICS"
+    },
+    {
+        "subj_cd": "617",
+        "subj_descr": "LANGUAGES AND CULTURES"
+    },
+    {
+        "subj_cd": "620",
+        "subj_descr": "MANAGEMENT"
+    },
+    {
+        "subj_cd": "621",
+        "subj_descr": "INTERFUNCTIONAL"
+    },
+    {
+        "subj_cd": "624",
+        "subj_descr": "MANAGEMENT AND WORK"
+    },
+    {
+        "subj_cd": "628",
+        "subj_descr": "MARINE AND COASTAL SCIENCES"
+    },
+    {
+        "subj_cd": "630",
+        "subj_descr": "MARKETING"
+    },
+    {
+        "subj_cd": "632",
+        "subj_descr": "MASON GROSS DIGITAL FILMMAKING"
+    },
+    {
+        "subj_cd": "635",
+        "subj_descr": "MATERIALS SCIENCE AND ENGINEERING"
+    },
+    {
+        "subj_cd": "640",
+        "subj_descr": "MATHEMATICS"
+    },
+    {
+        "subj_cd": "642",
+        "subj_descr": "APPLIED MATHEMATICS"
+    },
+    {
+        "subj_cd": "644",
+        "subj_descr": "MATHEMATICS FOR TEACHERS"
+    },
+    {
+        "subj_cd": "645",
+        "subj_descr": "MATHEMATICAL SCIENCE"
+    },
+    {
+        "subj_cd": "650",
+        "subj_descr": "MECHANICAL AND AEROSPACE ENGINEERING"
+    },
+    {
+        "subj_cd": "663",
+        "subj_descr": "MEDICINAL CHEMISTRY"
+    },
+    {
+        "subj_cd": "670",
+        "subj_descr": "METEOROLOGY"
+    },
+    {
+        "subj_cd": "680",
+        "subj_descr": "MICROBIOLOGY"
+    },
+    {
+        "subj_cd": "681",
+        "subj_descr": "MICROMOLECULAR GENETICS"
+    },
+    {
+        "subj_cd": "682",
+        "subj_descr": "MICROBIAL BIOLOGY"
+    },
+    {
+        "subj_cd": "685",
+        "subj_descr": "MIDDLE EASTERN STUDIES"
+    },
+    {
+        "subj_cd": "692",
+        "subj_descr": "MILITARY EDUCATION, NAVY"
+    },
+    {
+        "subj_cd": "694",
+        "subj_descr": "MOL BIO & BIOCHEM"
+    },
+    {
+        "subj_cd": "700",
+        "subj_descr": "MUSIC"
+    },
+    {
+        "subj_cd": "701",
+        "subj_descr": "MUSIC, APPLIED (UNITS 07 AND 08)"
+    },
+    {
+        "subj_cd": "702",
+        "subj_descr": "MUSIC - MGSA"
+    },
+    {
+        "subj_cd": "703",
+        "subj_descr": "MUSIC, APPLIED (UNITS 07 AND 08)"
+    },
+    {
+        "subj_cd": "705",
+        "subj_descr": "NURSING"
+    },
+    {
+        "subj_cd": "709",
+        "subj_descr": "NUTRITIONAL SCIENCES"
+    },
+    {
+        "subj_cd": "710",
+        "subj_descr": "NEUROSCIENCE"
+    },
+    {
+        "subj_cd": "711",
+        "subj_descr": "OPERATIONS RESEARCH"
+    },
+    {
+        "subj_cd": "712",
+        "subj_descr": "OCEANOGRAPHY"
+    },
+    {
+        "subj_cd": "713",
+        "subj_descr": "ORGANIZATIONAL LEADERSHIP"
+    },
+    {
+        "subj_cd": "715",
+        "subj_descr": "PHARMACEUTICAL CHEMISTRY"
+    },
+    {
+        "subj_cd": "718",
+        "subj_descr": "PHARMACOLOGY AND TOXICOLOGY"
+    },
+    {
+        "subj_cd": "720",
+        "subj_descr": "PHARMACY"
+    },
+    {
+        "subj_cd": "721",
+        "subj_descr": "PHARMACEUTICS"
+    },
+    {
+        "subj_cd": "723",
+        "subj_descr": "PERSIAN"
+    },
+    {
+        "subj_cd": "725",
+        "subj_descr": "PHARMACY PRACTICE AND ADMINISTRATION"
+    },
+    {
+        "subj_cd": "730",
+        "subj_descr": "PHILOSOPHY"
+    },
+    {
+        "subj_cd": "731",
+        "subj_descr": "PACKAGING ENGINEERING"
+    },
+    {
+        "subj_cd": "735",
+        "subj_descr": "PEACE AND CONFLICT STUDIES"
+    },
+    {
+        "subj_cd": "750",
+        "subj_descr": "PHYSICS"
+    },
+    {
+        "subj_cd": "755",
+        "subj_descr": "APPLIED PHYSICS"
+    },
+    {
+        "subj_cd": "762",
+        "subj_descr": "PLANNING AND PUBLIC POLICY"
+    },
+    {
+        "subj_cd": "765",
+        "subj_descr": "PLANT BIOLOGY"
+    },
+    {
+        "subj_cd": "775",
+        "subj_descr": "POLICY, HEALTH, AND ADMINISTRATION"
+    },
+    {
+        "subj_cd": "776",
+        "subj_descr": "PLANT SCIENCE"
+    },
+    {
+        "subj_cd": "790",
+        "subj_descr": "POLITICAL SCIENCE"
+    },
+    {
+        "subj_cd": "799",
+        "subj_descr": "SUPPLY CHAIN MANAGEMENT"
+    },
+    {
+        "subj_cd": "810",
+        "subj_descr": "PORTUGUESE"
+    },
+    {
+        "subj_cd": "813",
+        "subj_descr": "PROFESSIONAL DEVELOPMENT"
+    },
+    {
+        "subj_cd": "816",
+        "subj_descr": "PUBLIC INFORMATICS"
+    },
+    {
+        "subj_cd": "820",
+        "subj_descr": "PROFESSIONAL PSYCHOLOGY"
+    },
+    {
+        "subj_cd": "821",
+        "subj_descr": "CLINICAL PSYCHOLOGY"
+    },
+    {
+        "subj_cd": "826",
+        "subj_descr": "SCHOOL PSYCHOLOGY"
+    },
+    {
+        "subj_cd": "830",
+        "subj_descr": "PSYCHOLOGY"
+    },
+    {
+        "subj_cd": "832",
+        "subj_descr": "PUBLIC HEALTH"
+    },
+    {
+        "subj_cd": "833",
+        "subj_descr": "PUBLIC POLICY"
+    },
+    {
+        "subj_cd": "834",
+        "subj_descr": "PUBLIC ADMINISTRATION"
+    },
+    {
+        "subj_cd": "835",
+        "subj_descr": "PUBLIC ACCOUNTING"
+    },
+    {
+        "subj_cd": "839",
+        "subj_descr": "QUANTITATIVE FINANCE"
+    },
+    {
+        "subj_cd": "840",
+        "subj_descr": "RELIGION"
+    },
+    {
+        "subj_cd": "843",
+        "subj_descr": "PUBLIC ADMIN AND MGMT"
+    },
+    {
+        "subj_cd": "844",
+        "subj_descr": "PSYCHOLOGY, APPLIED"
+    },
+    {
+        "subj_cd": "848",
+        "subj_descr": "QUANTITATIVE BIOMEDICINE"
+    },
+    {
+        "subj_cd": "860",
+        "subj_descr": "RUSSIAN"
+    },
+    {
+        "subj_cd": "902",
+        "subj_descr": "SEBS INTERNSHIP"
+    },
+    {
+        "subj_cd": "904",
+        "subj_descr": "SOCIAL JUSTICE"
+    },
+    {
+        "subj_cd": "910",
+        "subj_descr": "SOCIAL WORK"
+    },
+    {
+        "subj_cd": "920",
+        "subj_descr": "SOCIOLOGY"
+    },
+    {
+        "subj_cd": "940",
+        "subj_descr": "SPANISH"
+    },
+    {
+        "subj_cd": "954",
+        "subj_descr": "STATISTICS-DATA SCIENCE"
+    },
+    {
+        "subj_cd": "955",
+        "subj_descr": "SPORT MANAGEMENT"
+    },
+    {
+        "subj_cd": "958",
+        "subj_descr": "STATISTICS, FINANCIAL AND RISK MGMT"
+    },
+    {
+        "subj_cd": "959",
+        "subj_descr": "STUDY ABROAD"
+    },
+    {
+        "subj_cd": "960",
+        "subj_descr": "STATISTICS"
+    },
+    {
+        "subj_cd": "963",
+        "subj_descr": "TOXICOLOGY"
+    },
+    {
+        "subj_cd": "965",
+        "subj_descr": "THEATER"
+    },
+    {
+        "subj_cd": "966",
+        "subj_descr": "THEATER ARTS - MGSA"
+    },
+    {
+        "subj_cd": "970",
+        "subj_descr": "URBAN PLANNING AND POLICY DEVELOPMENT"
+    },
+    {
+        "subj_cd": "971",
+        "subj_descr": "URBAN PLANNING"
+    },
+    {
+        "subj_cd": "973",
+        "subj_descr": "TURKISH"
+    },
+    {
+        "subj_cd": "974",
+        "subj_descr": "TWI"
+    },
+    {
+        "subj_cd": "977",
+        "subj_descr": "URBAN SYSTEMS"
+    },
+    {
+        "subj_cd": "988",
+        "subj_descr": "WOMEN'S AND GENDER STUDIES"
+    },
+    {
+        "subj_cd": "991",
+        "subj_descr": "WORLD LANGUAGES"
+    }
+]
